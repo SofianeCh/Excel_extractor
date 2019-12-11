@@ -1,0 +1,17 @@
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Aram.exe
+C:\Users\sofiane\source\repos\Aram\Aram\obj\Debug\netcoreapp3.0\Aram.csprojAssemblyReference.cache
+C:\Users\sofiane\source\repos\Aram\Aram\obj\Debug\netcoreapp3.0\Aram.AssemblyInfoInputs.cache
+C:\Users\sofiane\source\repos\Aram\Aram\obj\Debug\netcoreapp3.0\Aram.AssemblyInfo.cs
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\ExcelDataReader.dll
+C:\Users\sofiane\source\repos\Aram\Aram\obj\Debug\netcoreapp3.0\Aram.csproj.CopyComplete
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Aram.deps.json
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Aram.runtimeconfig.json
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Aram.runtimeconfig.dev.json
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Aram.dll
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Aram.pdb
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\ExcelDataReader.DataSet.dll
+C:\Users\sofiane\source\repos\Aram\Aram\obj\Debug\netcoreapp3.0\Aram.dll
+C:\Users\sofiane\source\repos\Aram\Aram\obj\Debug\netcoreapp3.0\Aram.pdb
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Elasticsearch.Net.dll
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Nest.dll
+C:\Users\sofiane\source\repos\Aram\Aram\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
