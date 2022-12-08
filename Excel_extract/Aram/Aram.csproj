@@ -9,7 +9,7 @@
     <PackageReference Include="ExcelDataReader" Version="3.6.0" />
     <PackageReference Include="ExcelDataReader.DataSet" Version="3.6.0" />
     <PackageReference Include="NEST" Version="7.4.1" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="System.Text.Encoding.CodePages" Version="4.6.0" />
   </ItemGroup>
 
